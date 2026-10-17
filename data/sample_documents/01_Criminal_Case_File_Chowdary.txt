@@ -1,0 +1,160 @@
+--- PAGE 1 ---
+Meridian & Rao Legal Associates, Hyderabad — Internal Case File — CC/482/2024
+Meridian & Rao Legal Associates, Hyderabad
+Internal Case File — Privileged & Confidential
+State of Telangana vs. Vikram Chowdary
+Criminal Case No. CC/482/2024 — Cheating and Forgery
+Illustrative / synthetic case file created for training and demonstration purposes (e.g., testing retrieval-augmented 
+generation systems). All names, dates, case numbers, and facts are fictional and do not correspond to any real person, 
+entity, or proceeding.
+1. Case Overview
+Case No. CC/482/2024
+Court Court of the Additional Chief Metropolitan Magistrate, Nampally, Hyderabad
+Complainant Sunrise Textiles Pvt. Ltd., represented by its Director, Mr. Suresh Bhatia
+Accused Mr. Vikram Chowdary, Proprietor, Chowdary Trading Co.
+Sections Invoked Sections 318(4) and 338 of the Bharatiya Nyaya Sanhita, 2023 (corresponding to 
+erstwhile Sections 420 and 468 IPC) — cheating and forgery for the purpose of cheating
+Investigating Officer Sub-Inspector K. Ravinder, Begumpet Police Station
+Firm's Client Complainant (Sunrise Textiles Pvt. Ltd.)
+Handling Advocate Adv. Priyanka Menon, Associate
+2. Brief Facts
+The complainant, Sunrise Textiles Pvt. Ltd., placed a purchase order dated 14 February 2024 with Chowdary Trading Co. 
+for the supply of 12,000 meters of dyed cotton fabric, valued at 18,40,000, with delivery scheduled within 30 days. An ₹
+advance of 9,20,000 (50% of the order value) was paid by RTGS on 16 February 2024 against a proforma invoice issued₹  
+by the accused.
+No goods were delivered within the stipulated period. On follow-up, the accused furnished a delivery challan dated 10 
+March 2024 purportedly signed by the complainant's warehouse manager acknowledging partial receipt of goods — a 
+document the complainant disputes having signed or received. Subsequent verification revealed that the transport 
+company named on the challan had no record of any such consignment. The complainant alleges that the accused never 
+intended to supply the goods and fabricated the delivery challan to delay recovery action and cover the misappropriation 
+of the advance amount.
+3. Chronology of Proceedings
+Date Event Notes / Outcome
+14 Feb 2024 Purchase order placed PO No. STX/PO/0219 issued to Chowdary Trading Co.
+16 Feb 2024 Advance payment made 9,20,000 transferred via RTGS; UTR retained on file₹
+10 Mar 2024 Disputed delivery challan 
+received
+Complainant denies authenticity of signature
+22 Mar 2024 Legal notice issued to 
+accused
+Demanded refund of advance within 15 days; no response received
+18 Apr 2024 FIR registered FIR No. 112/2024, Begumpet Police Station
+30 Jun 2024 Chargesheet filed Filed before ACMM Nampally under BNS Ss. 318(4), 338
+12 Jul 2024 First appearance of accused Accused released on bail of 1,00,000 with one surety₹
+1
+
+--- PAGE 2 ---
+Meridian & Rao Legal Associates, Hyderabad — Internal Case File — CC/482/2024
+9 Sep 2024 Charges framed Accused pleaded not guilty; claimed trial ordered
+21 Nov 2024 PW-1 (complainant's 
+Director) examined-in-chief
+Deposed on placement of order and advance payment
+15 Jan 2025 PW-1 cross-examined Defense questioned delay in raising dispute; matter part-heard
+18 Mar 2025 PW-2 (warehouse manager) 
+examined
+Denied signing the disputed delivery challan
+4. Documents on Record
+Exhibit No. Description Relevance
+Ex. P1 Purchase order dated 14 Feb 2024 Establishes terms of the transaction and delivery timeline
+Ex. P2 RTGS payment confirmation dated 16 Feb 
+2024
+Proof of advance payment of 9,20,000₹
+Ex. P3 Disputed delivery challan dated 10 Mar 
+2024
+Alleged forged document; subject of forgery charge
+Ex. P4 Reply from named transport company 
+denying any consignment
+Corroborates that no delivery was ever made
+Ex. P5 Legal notice dated 22 Mar 2024 and postal 
+tracking receipt
+Demonstrates demand for refund prior to FIR
+Ex. P6 Forensic handwriting comparison report Opines that signature on Ex. P3 does not match specimen 
+signatures of PW-2
+5. Key Legal Issues
+• Whether the accused had dishonest intention at the time of inducing payment of the advance, as required to sustain a 
+charge of cheating
+• Whether the disputed delivery challan (Ex. P3) is a forged document, and whether it was used to deceive or delay 
+recovery action
+• Whether civil remedies (recovery suit) pursued in parallel affect the maintainability or urgency of the criminal 
+proceeding
+• Quantum of loss actually suffered by the complainant, relevant to sentencing and compounding discussions, if any
+6. Current Status
+The matter is at the prosecution evidence stage. PW-1 and PW-2 have been examined; cross-examination of PW-2 is 
+pending. The defense has indicated an intention to summon the transport company's branch manager as a defense witness 
+to challenge the authenticity of Ex. P4.
+7. Next Steps
+• Next hearing: 22 April 2025 — cross-examination of PW-2 (warehouse manager)
+• Prepare re-examination points in view of anticipated defense questions on chain of custody for Ex. P3
+• Follow up with forensic expert (author of Ex. P6) regarding availability for examination as PW-3
+• Track parallel civil recovery suit (C.S. No. 88/2024) for consistency of pleadings
+8. Internal Notes (Privileged & Confidential)
+Client has expressed willingness to consider compounding the matter if full refund with interest is made before final 
+arguments; this position has not been communicated to the opposite side and should not be disclosed without further 
+instructions. Team should continue to prepare for full trial in parallel.
+2
+
+--- PAGE 3 ---
+Meridian & Rao Legal Associates, Hyderabad — Internal Case File — CC/482/2024
+9. Relevant Legal Provisions
+• Section 318, Bharatiya Nyaya Sanhita, 2023 — Cheating (corresponding to Section 415/420, IPC 1860)
+• Section 338, Bharatiya Nyaya Sanhita, 2023 — Forgery for the purpose of cheating
+• Section 336, Bharatiya Nyaya Sanhita, 2023 — Forgery, general provision defining the offence
+• Section 63, Bharatiya Sakshya Adhiniyam, 2023 — Admissibility of electronic and documentary evidence (relevant 
+to Ex. P2 and Ex. P4)
+10. Precedents Relied Upon
+The following categories of precedent are being relied upon in preparing arguments on dishonest intention and forgery; 
+specific citations to be finalized by the handling advocate before the next hearing:
+• Authorities on the distinction between a mere breach of contract and cheating, emphasizing that dishonest intention 
+must exist at the time of the promise, not merely arise later from non-performance
+• Authorities on proof of forgery through comparison of admitted and disputed signatures, and the evidentiary value of 
+expert opinion under the Bharatiya Sakshya Adhiniyam
+• Authorities on the effect of a pending civil recovery suit on the maintainability and conduct of parallel criminal 
+proceedings arising from the same transaction
+11. Risk Assessment
+The complainant's documentary trail (purchase order, payment proof, and the transport company's denial) is strong. The 
+principal litigation risk lies in establishing that the accused's intention was dishonest from inception rather than a 
+subsequent commercial default, given the defense's likely argument that delivery was merely delayed due to supply-chain 
+issues. The forensic handwriting report (Ex. P6) is expected to be pivotal in rebutting this defense.
+12. Witness List
+Witness Role Status
+PW-1 — Mr. 
+Suresh Bhatia
+Director, Sunrise Textiles Pvt. Ltd. 
+(complainant)
+Examined-in-chief and cross-examined (completed)
+PW-2 — 
+Warehouse 
+Manager
+Denies signing disputed delivery challan 
+(Ex. P3)
+Examined-in-chief completed; cross-examination pending
+PW-3 — 
+Forensic 
+Document 
+Examiner
+Author of handwriting comparison report 
+(Ex. P6)
+Yet to be examined; availability being confirmed
+DW-1 
+(anticipated) — 
+Transport 
+Company 
+Branch 
+Manager
+Expected defense witness on consignment 
+records
+Not yet summoned; defense has indicated intent to call
+13. Correspondence Log
+Date Correspondence Summary
+2 Apr 2024 Email from client to firm Instructs firm to pursue both criminal complaint and parallel 
+civil recovery suit
+25 Jun 2024 Letter from Investigating Officer Confirms completion of investigation and intent to file 
+3
+
+--- PAGE 4 ---
+Meridian & Rao Legal Associates, Hyderabad — Internal Case File — CC/482/2024
+chargesheet
+5 Feb 2025 Email exchange with forensic expert's office Confirming availability for examination as PW-3 in April 
+2025
+End of document. Internal reference: MER-CRIM-2024-482 (synthetic training corpus).
+4

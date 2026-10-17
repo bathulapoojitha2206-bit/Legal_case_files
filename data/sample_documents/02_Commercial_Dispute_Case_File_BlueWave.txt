@@ -1,0 +1,158 @@
+--- PAGE 1 ---
+Meridian & Rao Legal Associates, Hyderabad — Internal Case File — CS(COMM)/112/2024
+Meridian & Rao Legal Associates, Hyderabad
+Internal Case File — Privileged & Confidential
+BlueWave Constructions Pvt. Ltd. vs. Orion Infra Solutions Pvt. 
+Ltd.
+Commercial Suit No. CS(COMM)/112/2024 — Breach of Contract
+Illustrative / synthetic case file created for training and demonstration purposes (e.g., testing retrieval-augmented 
+generation systems). All names, dates, case numbers, and facts are fictional and do not correspond to any real person, 
+entity, or proceeding.
+1. Case Overview
+Case No. CS(COMM)/112/2024
+Court Commercial Court, City Civil Court, Hyderabad
+Plaintiff BlueWave Constructions Pvt. Ltd.
+Defendant Orion Infra Solutions Pvt. Ltd.
+Nature of Claim Breach of EPC (Engineering, Procurement & Construction) contract; recovery of 
+damages and liquidated damages
+Claim Amount 4,32,00,000, plus interest at 12% per annum from date of breach₹
+Firm's Client Plaintiff (BlueWave Constructions Pvt. Ltd.)
+Handling Advocate Adv. Rahul Deshpande, Senior Associate
+2. Brief Facts
+The plaintiff and defendant entered into an EPC contract dated 5 January 2023 for construction of a 40,000 sq. ft. 
+warehouse facility at Patancheru, Hyderabad, for a total contract value of 8,60,00,000, with a stipulated completion date ₹
+of 4 January 2024. The contract contained a liquidated damages clause (Clause 14.2) providing for deduction of 0.5% of 
+contract value per week of delay, capped at 10% of contract value.
+Construction was delayed substantially. As of the stipulated completion date, only approximately 62% of the work stood 
+completed. The defendant attributes the delay to force majeure (extended monsoon disruption and a cement shortage in the 
+region), while the plaintiff contends that the defendant failed to mobilize adequate manpower and materials from the 
+outset, and that the force majeure clause (Clause 18) was not properly invoked within the notice period required under the 
+contract. The plaintiff terminated the contract on 20 February 2024 and engaged an alternate contractor to complete the 
+balance work, incurring additional cost.
+3. Chronology of Proceedings
+Date Event Notes / Outcome
+5 Jan 2023 EPC contract executed Completion date fixed as 4 Jan 2024
+11 Nov 2023 Defendant's first force majeure 
+notice
+Cited monsoon disruption; plaintiff disputes timeliness under Clause 18.3
+4 Jan 2024 Stipulated completion date 
+lapses
+Approximately 62% work completed per joint site inspection
+20 Feb 2024 Termination notice issued by 
+plaintiff
+Contract terminated citing failure to complete and invalid force majeure 
+claim
+15 Apr 2024 Suit filed Filed before Commercial Court along with application for interim relief
+1
+
+--- PAGE 2 ---
+Meridian & Rao Legal Associates, Hyderabad — Internal Case File — CS(COMM)/112/2024
+3 Jun 2024 Summons served on defendant Defendant granted 30 days to file written statement
+10 Jul 2024 Written statement filed Defendant denies breach; asserts force majeure and counterclaims for 
+unpaid running bills
+2 Sep 2024 Replication filed by plaintiff Force majeure notice challenged as defective and untimely
+28 Oct 2024 Issues framed Nine issues framed, including validity of force majeure invocation and 
+quantum of damages
+14 Jan 2025 PW-1 (plaintiff's project 
+manager) examined-in-chief
+Deposed on site progress records and delay computation
+20 Feb 2025 Expert witness (delay analysis) 
+affidavit filed
+Independent scheduling expert's report tendered as evidence
+4. Documents on Record
+Exhibit No. Description Relevance
+Ex. P1 EPC contract dated 5 Jan 2023, with all 
+schedules
+Establishes scope, timeline, and liquidated damages clause
+Ex. P2 Monthly progress reports (Jan 2023 – Jan 
+2024)
+Documents actual physical progress against schedule
+Ex. P3 Force majeure notice dated 11 Nov 2023 
+and plaintiff's reply
+Central to dispute over validity of force majeure invocation
+Ex. P4 Termination notice dated 20 Feb 2024 Establishes date and grounds of termination
+Ex. P5 Invoices for alternate contractor engaged 
+post-termination
+Supports quantum of additional completion cost claimed
+Ex. D1 Regional cement supply shortage 
+notification (industry body)
+Defendant's evidence supporting force majeure claim
+Ex. C1 Expert scheduling report dated 20 Feb 2025 Independent analysis attributing delay causes between 
+parties
+5. Key Legal Issues
+• Whether the force majeure notice dated 11 November 2023 was issued within the time and form required under 
+Clause 18.3 of the contract
+• Whether the delay is attributable to force majeure events, contractor default, or a combination of both, and in what 
+proportion
+• Enforceability and computation of the liquidated damages clause (Clause 14.2) as against actual proven loss
+• Validity of the termination and entitlement to recover the additional cost of completion through the substitute 
+contractor
+• Maintainability of the defendant's counterclaim for unpaid running bills in the same proceeding
+6. Current Status
+The matter is at the evidence stage. Plaintiff's witness examination is substantially complete; the independent scheduling 
+expert's report has been filed and the expert is expected to be examined next. Defendant's evidence is yet to commence.
+7. Next Steps
+• Next hearing: 9 May 2025 — examination of independent scheduling expert (Ex. C1)
+• Prepare cross-examination outline for defendant's anticipated force-majeure witnesses
+2
+
+--- PAGE 3 ---
+Meridian & Rao Legal Associates, Hyderabad — Internal Case File — CS(COMM)/112/2024
+• Finalize computation of damages claim reconciling liquidated damages cap with actual completion cost evidence
+• Evaluate settlement posture in light of expert report findings once expert testimony concludes
+8. Internal Notes (Privileged & Confidential)
+Client has indicated the commercial relationship with the defendant is unlikely to continue regardless of outcome; full 
+recovery of damages remains the priority over any settlement discussion. Internal cost-benefit note on expert witness fees 
+to be circulated separately.
+9. Relevant Contractual and Legal Provisions
+• Clause 14.2 of the EPC Contract — Liquidated damages at 0.5% of contract value per week of delay, capped at 10% 
+of contract value
+• Clause 18 of the EPC Contract — Force majeure, including notice requirement within 7 days of the triggering event
+• Section 73, Indian Contract Act, 1872 — Compensation for loss or damage caused by breach of contract
+• Section 74, Indian Contract Act, 1872 — Reasonable compensation where a sum is named as liquidated damages, not 
+exceeding the amount stipulated
+• Commercial Courts Act, 2015 — Procedural framework governing case management and timelines in the present suit
+10. Precedents Relied Upon
+The following categories of precedent are being relied upon; specific citations to be finalized by the handling advocate 
+ahead of final arguments:
+• Authorities on strict construction of force majeure clauses, including the requirement of timely notice as a condition 
+precedent to relief
+• Authorities on the interplay between Section 74 of the Contract Act and liquidated damages clauses, including the 
+requirement to prove genuine pre-estimate of loss where a party seeks damages beyond the capped amount
+• Authorities on reliance on independent expert delay-analysis reports in construction and infrastructure disputes
+11. Risk Assessment
+The plaintiff's position is aided by the apparently defective and delayed force majeure notice, and by the independent 
+expert's report attributing the bulk of the delay to the defendant's mobilization failures. The principal risk is the liquidated 
+damages cap under Clause 14.2, which may limit recovery notwithstanding a higher quantum of actual proven loss; 
+arguments on recovering damages beyond the cap will need to be carefully framed under Section 74 of the Contract Act.
+12. Witness List
+Witness Role Status
+PW-1 — 
+Project 
+Manager
+Plaintiff's site progress and delay records Examined-in-chief completed
+PW-2 
+(anticipated) — 
+Finance Head, 
+BlueWave
+To depose on quantum of loss and alternate 
+contractor costs
+Not yet examined; expected after expert testimony
+Court Witness 
+— Independent 
+Scheduling 
+Expert
+Author of delay analysis report (Ex. C1) Report filed; examination scheduled next hearing
+DW-1 
+(anticipated) — 
+Expected to testify on force majeure impact 
+at site
+Not yet examined; defendant's evidence stage pending
+3
+
+--- PAGE 4 ---
+Meridian & Rao Legal Associates, Hyderabad — Internal Case File — CS(COMM)/112/2024
+Site Engineer, 
+Orion Infra
+End of document. Internal reference: MER-COMM-2024-112 (synthetic training corpus).
+4

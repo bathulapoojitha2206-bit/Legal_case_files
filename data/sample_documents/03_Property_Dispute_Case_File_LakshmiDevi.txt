@@ -1,0 +1,166 @@
+--- PAGE 1 ---
+Meridian & Rao Legal Associates, Hyderabad — Internal Case File — O.S. 245/2023
+Meridian & Rao Legal Associates, Hyderabad
+Internal Case File — Privileged & Confidential
+Lakshmi Devi vs. Ramesh Naidu
+Original Suit No. 245/2023 — Declaration of Title and Permanent Injunction
+Illustrative / synthetic case file created for training and demonstration purposes (e.g., testing retrieval-augmented 
+generation systems). All names, dates, case numbers, and facts are fictional and do not correspond to any real person, 
+entity, or proceeding.
+1. Case Overview
+Case No. O.S. 245/2023
+Court City Civil Court, Hyderabad
+Plaintiff Mrs. Lakshmi Devi, resident of Malakpet, Hyderabad
+Defendant Mr. Ramesh Naidu, resident of Dilsukhnagar, Hyderabad
+Suit Property Plot bearing Survey No. 118/2A, admeasuring 500 sq. yards, situated at Nagole village, 
+Ranga Reddy District
+Nature of Suit Declaration of title, recovery of possession (in part), and permanent injunction 
+restraining alienation
+Firm's Client Plaintiff (Mrs. Lakshmi Devi)
+Handling Advocate Adv. Srinivas Reddy, Partner
+2. Brief Facts
+The plaintiff claims ownership of the suit property by virtue of a registered sale deed dated 9 June 1998 (Document No. 
+2214/1998, Sub-Registrar Office, Saroornagar), executed in her favor by the original owner, and has been in continuous 
+possession and enjoyment since that date, with revenue records (pattadar passbook and mutation extracts) standing in her 
+name.
+The defendant claims title over a portion of the same survey number (approximately 150 sq. yards) on the strength of a 
+sale deed dated 3 August 2021, allegedly executed by a person claiming to be the legal heir of the original owner. The 
+plaintiff disputes the defendant's vendor's title, contending that the entire original holding had already been conveyed to 
+her in 1998 and that no residual interest remained capable of being transferred in 2021. The defendant commenced 
+construction of a compound wall encroaching on the disputed portion in August 2023, prompting the plaintiff to seek 
+urgent injunctive relief.
+3. Chronology of Proceedings
+Date Event Notes / Outcome
+9 Jun 1998 Registered sale deed executed 
+in favor of plaintiff
+Document No. 2214/1998; covers entire Survey No. 118/2A
+3 Aug 2021 Defendant's sale deed executed Covers approx. 150 sq. yards of the same survey number
+14 Aug 2023 Defendant commences 
+compound wall construction
+Triggers dispute and urgent legal notice from plaintiff
+22 Aug 2023 Suit filed with application for 
+temporary injunction
+Ad-interim injunction granted restraining further construction
+5 Sep 2023 Defendant's counter-affidavit 
+filed
+Disputes plaintiff's title and seeks vacation of interim injunction
+1
+
+--- PAGE 2 ---
+Meridian & Rao Legal Associates, Hyderabad — Internal Case File — O.S. 245/2023
+19 Oct 2023 Temporary injunction 
+confirmed after hearing
+Status quo on disputed 150 sq. yards to be maintained pending trial
+30 Nov 2023 Written statement filed by 
+defendant
+Traces title through alleged legal heir vendor
+15 Jan 2024 Issues framed Six issues framed, including validity of defendant's vendor's title
+8 Apr 2024 Court appoints Survey 
+Commissioner
+To demarcate boundaries and verify overlap between the two sale deeds
+26 Aug 2024 Survey Commissioner's report 
+filed
+Confirms disputed 150 sq. yards falls entirely within plaintiff's 1998 deed 
+boundaries
+11 Feb 2025 Defendant files objections to 
+Survey Commissioner's report
+Objections currently pending consideration
+4. Documents on Record
+Exhibit No. Description Relevance
+Ex. A1 Registered sale deed dated 9 Jun 1998 (Doc 
+No. 2214/1998)
+Root of plaintiff's title over the entire survey number
+Ex. A2 Pattadar passbook and mutation extracts in 
+plaintiff's name
+Corroborates continuous possession and revenue recognition
+Ex. A3 Property tax receipts, 1999–2023 Evidence of continuous possession and payment of dues by 
+plaintiff
+Ex. B1 Defendant's sale deed dated 3 Aug 2021 Basis of defendant's claimed title; validity disputed
+Ex. C1 Survey Commissioner's report dated 26 Aug 
+2024, with sketch map
+Key technical evidence on boundary overlap
+5. Key Legal Issues
+• Whether the plaintiff has valid, subsisting title to the entire extent covered by the 1998 sale deed, including the 
+disputed 150 sq. yards
+• Whether the defendant's vendor held any residual transferable interest in the suit property as of August 2021
+• Whether the plaintiff is entitled to a permanent injunction restraining the defendant from interfering with or 
+constructing upon the disputed portion
+• Evidentiary weight to be accorded to the Survey Commissioner's report in the face of the defendant's pending 
+objections
+6. Current Status
+The Survey Commissioner's report has been filed and supports the plaintiff's case on the boundary overlap. The 
+defendant's objections to the report are pending consideration; trial evidence has not yet commenced pending disposal of 
+these objections.
+7. Next Steps
+• Next hearing: 30 April 2025 — arguments on defendant's objections to Survey Commissioner's report
+• Prepare written submissions supporting the accuracy and methodology of the survey report
+• If objections are overruled, proceed to list matter for plaintiff's evidence
+• Continue monitoring compliance with the standing status quo order on the disputed portion
+8. Internal Notes (Privileged & Confidential)
+2
+
+--- PAGE 3 ---
+Meridian & Rao Legal Associates, Hyderabad — Internal Case File — O.S. 245/2023
+Client has been advised that the Survey Commissioner's report significantly strengthens her position; however, she should 
+be counselled on the likely timeline for final disposal, given the defendant's pending objections and possibility of further 
+appeal. No settlement discussions have taken place to date.
+9. Relevant Legal Provisions
+• Section 34, Specific Relief Act, 1963 — Discretion to declare title where the plaintiff's right is denied
+• Section 38, Specific Relief Act, 1963 — Perpetual injunction to prevent breach of an obligation
+• Order XXVI, Rule 9, Code of Civil Procedure, 1908 — Commission for local investigation (basis for appointment of 
+Survey Commissioner)
+• Section 17, Registration Act, 1908 — Mandatory registration of instruments transferring immovable property valued 
+above the statutory threshold
+10. Precedents Relied Upon
+The following categories of precedent are being relied upon; specific citations to be finalized by the handling advocate 
+ahead of final arguments:
+• Authorities on the evidentiary value of a Court-appointed Survey Commissioner's report and the limited grounds on 
+which such a report may be discarded
+• Authorities on the principle that a vendor cannot convey better title than they themselves possess (nemo dat quod non 
+habet), relevant to the defendant's 2021 sale deed
+• Authorities on long, continuous, and open possession as corroborative evidence of title in property disputes
+11. Risk Assessment
+The plaintiff's position is considerably strengthened by the Survey Commissioner's report, which independently confirms 
+the boundary overlap in her favor. The principal risk lies in the defendant's pending objections potentially delaying final 
+adjudication, and in the possibility that the defendant may seek to implead his vendor or raise a fresh challenge to the 
+chain of title underlying Ex. A1, though no such application has been filed to date.
+12. Witness List
+Witness Role Status
+PW-1 — Mrs. 
+Lakshmi Devi
+Plaintiff; testifies to purchase, possession, 
+and payment of dues
+Not yet examined; awaiting disposal of objections
+PW-2 
+(anticipated) — 
+Neighboring 
+Property Owner
+To corroborate long possession by plaintiff Not yet examined
+Court Witness 
+— Survey 
+Commissioner
+Author of boundary demarcation report (Ex. 
+C1)
+Report filed; examination to follow disposal of objections
+DW-1 
+(anticipated) — 
+Mr. Ramesh 
+Naidu
+Defendant; to testify on his vendor's claimed 
+title
+Not yet examined
+13. Correspondence Log
+Date Correspondence Summary
+16 Aug 2023 Legal notice to defendant Demanded halt to construction and clarification of title 
+claim
+3
+
+--- PAGE 4 ---
+Meridian & Rao Legal Associates, Hyderabad — Internal Case File — O.S. 245/2023
+28 Mar 2024 Letter to Survey Commissioner's office Requested early scheduling of site visit given ongoing status 
+quo order
+2 Sep 2024 Email from client Confirmed satisfaction with Survey Commissioner's 
+findings and instructed firm to oppose defendant's 
+objections
+End of document. Internal reference: MER-CIV-2023-245 (synthetic training corpus).
+4

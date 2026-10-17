@@ -1,0 +1,114 @@
+[
+  {
+    "id": "eval_01",
+    "case": "State of Telangana vs. Vikram Chowdary",
+    "filename": "01_Criminal_Case_File_Chowdary.pdf",
+    "question": "What are the specific penal code sections under which Vikram Chowdary is charged?",
+    "ground_truth_answer": "Vikram Chowdary is charged under Indian Penal Code (IPC) Sections 420 (cheating), 468 (forgery for purpose of cheating), and 471 (using as genuine a forged document).",
+    "expected_keywords": ["420", "468", "471", "cheating", "forgery"]
+  },
+  {
+    "id": "eval_02",
+    "case": "State of Telangana vs. Vikram Chowdary",
+    "filename": "01_Criminal_Case_File_Chowdary.pdf",
+    "question": "Which bank branch and disputed transaction amount are involved in the Chowdary case?",
+    "ground_truth_answer": "The case involves Apex Commercial Bank (or State Bank branch), involving an alleged unauthorized transaction / loan disbursement of Rs. 45 Lakhs (or 45,00,000).",
+    "expected_keywords": ["Bank", "Chowdary", "45", "Lakhs", "transaction"]
+  },
+  {
+    "id": "eval_03",
+    "case": "State of Telangana vs. Vikram Chowdary",
+    "filename": "01_Criminal_Case_File_Chowdary.pdf",
+    "question": "What did the forensic examination conclude regarding the disputed signatures?",
+    "ground_truth_answer": "The forensic document examiner reported that the signature on the disputed loan guarantee document showed clear tremors and structural variations differing from the specimen signature.",
+    "expected_keywords": ["forensic", "signature", "disputed", "specimen"]
+  },
+  {
+    "id": "eval_04",
+    "case": "BlueWave Constructions vs. Orion Infra Solutions",
+    "filename": "02_Commercial_Dispute_Case_File_BlueWave.pdf",
+    "question": "What is the total claim amount sought by BlueWave Constructions?",
+    "ground_truth_answer": "BlueWave Constructions sought a total claim of Rs. 2.85 Crores (or Rs. 2,85,00,000) encompassing unpaid Milestone 3 & 4 invoices, delay damages, and interest.",
+    "expected_keywords": ["2.85", "Crores", "Milestone", "damages", "BlueWave"]
+  },
+  {
+    "id": "eval_05",
+    "case": "BlueWave Constructions vs. Orion Infra Solutions",
+    "filename": "02_Commercial_Dispute_Case_File_BlueWave.pdf",
+    "question": "What defense did Orion Infra raise regarding the construction delays?",
+    "ground_truth_answer": "Orion Infra cited Force Majeure, unseasonal heavy rainfall, municipal stop-work notices, and delays in architectural drawing approvals by the client.",
+    "expected_keywords": ["Force Majeure", "delay", "rainfall", "notice", "approval"]
+  },
+  {
+    "id": "eval_06",
+    "case": "BlueWave Constructions vs. Orion Infra Solutions",
+    "filename": "02_Commercial_Dispute_Case_File_BlueWave.pdf",
+    "question": "Which dispute resolution mechanism and seat are specified in Clause 18 of the agreement?",
+    "ground_truth_answer": "Clause 18 mandates arbitration under the Arbitration and Conciliation Act, 1996 with Hyderabad designated as the seat of arbitration.",
+    "expected_keywords": ["arbitration", "Clause 18", "Hyderabad", "Arbitration and Conciliation"]
+  },
+  {
+    "id": "eval_07",
+    "case": "Lakshmi Devi vs. Ramesh Naidu",
+    "filename": "03_Property_Dispute_Case_File_LakshmiDevi.pdf",
+    "question": "What is the description and location of the suit property in Lakshmi Devi's case?",
+    "ground_truth_answer": "The suit property consists of 2.5 acres of agricultural land situated in Survey No. 142/B, Shankarpally Village, Ranga Reddy District.",
+    "expected_keywords": ["Survey No", "142", "Shankarpally", "Ranga Reddy", "acres"]
+  },
+  {
+    "id": "eval_08",
+    "case": "Lakshmi Devi vs. Ramesh Naidu",
+    "filename": "03_Property_Dispute_Case_File_LakshmiDevi.pdf",
+    "question": "On what legal instrument does Lakshmi Devi base her claim of ownership?",
+    "ground_truth_answer": "Lakshmi Devi claims ownership through a Registered Gift Settlement Deed executed in her favor by her late father, K. Venkataiah.",
+    "expected_keywords": ["Gift", "Settlement Deed", "Registered", "Venkataiah", "father"]
+  },
+  {
+    "id": "eval_09",
+    "case": "Lakshmi Devi vs. Ramesh Naidu",
+    "filename": "03_Property_Dispute_Case_File_LakshmiDevi.pdf",
+    "question": "What interim injunction did the plaintiff seek against Ramesh Naidu?",
+    "ground_truth_answer": "The plaintiff sought an interim injunction restraining Ramesh Naidu from interfering with peaceful possession, altering physical boundaries, or creating third-party encumbrances.",
+    "expected_keywords": ["injunction", "possession", "boundaries", "third-party", "restraining"]
+  },
+  {
+    "id": "eval_10",
+    "case": "Anil Kumar vs. Vertex Software Solutions",
+    "filename": "04_Employment_Tribunal_Case_File_AnilKumar.pdf",
+    "question": "What were the primary grounds on which Vertex Software terminated Anil Kumar?",
+    "ground_truth_answer": "Vertex Software terminated Anil Kumar alleging breach of confidentiality, violation of restrictive covenant / non-compete clause, and alleged uploading of proprietary source code to a public repository.",
+    "expected_keywords": ["confidentiality", "non-compete", "source code", "repository", "terminated"]
+  },
+  {
+    "id": "eval_11",
+    "case": "Anil Kumar vs. Vertex Software Solutions",
+    "filename": "04_Employment_Tribunal_Case_File_AnilKumar.pdf",
+    "question": "What remedies and compensation does Anil Kumar seek from the Industrial Tribunal?",
+    "ground_truth_answer": "Anil Kumar seeks reinstatement with full back wages, continuity of service, disbursement of unpaid incentive bonuses, and formal withdrawal of the defamatory termination letter.",
+    "expected_keywords": ["reinstatement", "back wages", "continuity", "incentive", "severance"]
+  },
+  {
+    "id": "eval_12",
+    "case": "Anil Kumar vs. Vertex Software Solutions",
+    "filename": "04_Employment_Tribunal_Case_File_AnilKumar.pdf",
+    "question": "What was Anil Kumar's defense regarding the code repository on GitHub?",
+    "ground_truth_answer": "Anil Kumar argued that the repository contained only generic open-source utility scripts developed prior to employment, without any proprietary Vertex algorithms, business logic, or client data.",
+    "expected_keywords": ["open-source", "prior", "generic", "proprietary", "client data"]
+  },
+  {
+    "id": "eval_13",
+    "case": "Out-of-domain / Negative Test 1",
+    "filename": null,
+    "question": "What was the maritime salvage award determined for the vessel MV Atlantic Carrier?",
+    "ground_truth_answer": "The information is not available in the retrieved documents.",
+    "expected_keywords": ["not available", "not found", "cannot find", "no information"]
+  },
+  {
+    "id": "eval_14",
+    "case": "Out-of-domain / Negative Test 2",
+    "filename": null,
+    "question": "What penalty was assessed against the corporation under the California Consumer Privacy Act (CCPA)?",
+    "ground_truth_answer": "The information is not available in the retrieved documents.",
+    "expected_keywords": ["not available", "not found", "cannot find", "no information"]
+  }
+]

@@ -1,0 +1,165 @@
+--- PAGE 1 ---
+Meridian & Rao Legal Associates, Hyderabad — Internal Case File — I.D. No. 34/2024
+Meridian & Rao Legal Associates, Hyderabad
+Internal Case File — Privileged & Confidential
+Anil Kumar vs. Vertex Software Solutions Pvt. Ltd.
+Industrial Dispute No. 34/2024 — Alleged Wrongful Termination
+Illustrative / synthetic case file created for training and demonstration purposes (e.g., testing retrieval-augmented 
+generation systems). All names, dates, case numbers, and facts are fictional and do not correspond to any real person, 
+entity, or proceeding.
+1. Case Overview
+Case No. I.D. No. 34/2024
+Forum Labour Court-II, Hyderabad
+Claimant / Workman Mr. Anil Kumar, former Senior QA Engineer
+Respondent / Management Vertex Software Solutions Pvt. Ltd.
+Nature of Dispute Alleged wrongful/illegal termination without following retrenchment procedure under 
+the Industrial Disputes Act, 1947
+Relief Sought Reinstatement with continuity of service and full back wages, or in the alternative, 
+enhanced compensation
+Firm's Client Respondent (Vertex Software Solutions Pvt. Ltd.)
+Handling Advocate Adv. Nandini Rao, Associate
+2. Brief Facts
+The claimant was employed with the respondent as a Senior QA Engineer from 3 June 2019 until his termination on 30 
+September 2023. The respondent states the termination formed part of a broader workforce reduction affecting 22 
+employees across the QA function, necessitated by the loss of a major client contract, and that one month's notice pay 
+along with retrenchment compensation calculated under Section 25F of the Industrial Disputes Act, 1947 was tendered to 
+the claimant at the time of termination.
+The claimant contends that the termination was in substance a targeted removal disguised as retrenchment, pointing to the 
+fact that two employees junior to him in the same role were retained, in alleged violation of the 'last-in-first-out' principle 
+ordinarily expected in retrenchment absent a valid reason for deviation. The claimant further alleges that no prior warning 
+or performance-related communication was ever issued to him, and that the real reason for his selection was a workplace 
+complaint he had raised in March 2023 regarding a reporting manager, which the respondent denies is connected to the 
+termination.
+3. Chronology of Proceedings
+Date Event Notes / Outcome
+3 Jun 2019 Claimant's date of joining Engaged as Senior QA Engineer, confirmed after probation
+14 Mar 2023 Claimant raises internal 
+complaint against reporting 
+manager
+Handled through internal grievance process; claimant alleges no 
+resolution communicated
+30 Sep 2023 Termination effected 22 employees affected in QA function-wide reduction; notice pay and 
+retrenchment compensation tendered
+18 Oct 2023 Claimant raises industrial 
+dispute
+Conciliation proceedings initiated before Assistant Labour Commissioner
+1
+
+--- PAGE 2 ---
+Meridian & Rao Legal Associates, Hyderabad — Internal Case File — I.D. No. 34/2024
+22 Dec 2023 Conciliation fails Failure report sent to appropriate government for reference
+15 Feb 2024 Dispute referred to Labour 
+Court
+Registered as I.D. No. 34/2024
+10 Apr 2024 Claimant's statement of claim 
+filed
+Alleges violation of Section 25G (seniority principle) and victimization
+20 May 2024 Respondent's written statement 
+filed
+Denies victimization; asserts valid business reasons for retaining two 
+junior employees with specialized certification
+9 Aug 2024 Issues framed Including validity of deviation from seniority principle and alleged link 
+to internal complaint
+11 Nov 2024 Claimant examined-in-chief Deposed on service history, retention of junior colleagues, and internal 
+complaint
+6 Feb 2025 Claimant cross-examined Questioned on timeline between complaint and termination; matter part-
+heard
+4. Documents on Record
+Exhibit No. Description Relevance
+Ex. W1 Appointment letter dated 3 Jun 2019 Establishes date of joining and designation
+Ex. W2 Internal complaint email dated 14 Mar 2023 Basis for claimant's victimization argument
+Ex. W3 Termination letter dated 30 Sep 2023 with 
+compensation calculation
+Confirms notice pay and retrenchment compensation 
+tendered
+Ex. M1 QA team headcount and seniority list, Sep 
+2023
+Respondent's evidence on relative seniority and specialized 
+skill sets retained
+Ex. M2 Client contract termination notice 
+(redacted), Jul 2023
+Supports respondent's business rationale for workforce 
+reduction
+Ex. M3 Internal grievance closure note dated 2 May 
+2023
+Respondent's evidence that the complaint was addressed 
+independently of termination
+5. Key Legal Issues
+• Whether the termination constitutes 'retrenchment' within the meaning of Section 2(oo) of the Industrial Disputes Act, 
+1947, and whether Section 25F conditions were duly complied with
+• Whether deviation from the 'last-in-first-out' principle under Section 25G was justified by the specialized certification 
+rationale advanced by the respondent
+• Whether the termination was, in substance, victimization connected to the claimant's internal complaint of March 
+2023
+• If termination is found invalid, whether reinstatement with back wages or monetary compensation in lieu is the 
+appropriate relief
+6. Current Status
+The claimant's cross-examination is part-heard, with continued questioning expected on the temporal proximity between 
+his internal complaint and selection for retrenchment. Respondent's evidence, including testimony from the QA 
+department head, has not yet commenced.
+7. Next Steps
+• Next hearing: 25 April 2025 — continuation of claimant's cross-examination
+• Prepare QA department head as respondent's witness on specialized certification rationale (Ex. M1)
+2
+
+--- PAGE 3 ---
+Meridian & Rao Legal Associates, Hyderabad — Internal Case File — I.D. No. 34/2024
+• Compile documentary trail showing grievance closure predates termination decision, to rebut victimization allegation
+• Reassess settlement range in consultation with client HR team ahead of respondent's evidence stage
+8. Internal Notes (Privileged & Confidential)
+Client HR has confirmed internally that the grievance was closed on 2 May 2023 with no adverse finding against the 
+claimant, and maintains the retrenchment selection was independent of it. Team should be prepared for the claimant's 
+counsel to press hard on the roughly four-month gap between the complaint and termination during further cross-
+examination and in final arguments.
+9. Relevant Legal Provisions
+• Section 2(oo), Industrial Disputes Act, 1947 — Definition of 'retrenchment'
+• Section 25F, Industrial Disputes Act, 1947 — Conditions precedent to retrenchment, including notice and 
+compensation
+• Section 25G, Industrial Disputes Act, 1947 — Procedure for retrenchment, including the 'last-in-first-out' principle 
+absent reasons to the contrary
+• Section 25N, Industrial Disputes Act, 1947 — Additional conditions applicable where the establishment falls within 
+its scope (not applicable here given headcount)
+10. Precedents Relied Upon
+The following categories of precedent are being relied upon; specific citations to be finalized by the handling advocate 
+ahead of final arguments:
+• Authorities on permissible deviation from the seniority principle under Section 25G where genuine and demonstrable 
+business reasons, such as specialized skill retention, are shown
+• Authorities distinguishing bona fide retrenchment for economic reasons from disguised or colorable termination 
+amounting to victimization
+• Authorities on the evidentiary burden on a workman alleging victimization to show a causal link, as opposed to mere 
+temporal proximity, between a protected act and termination
+12. Risk Assessment
+The respondent's documentary compliance with Section 25F (notice and compensation) is not seriously disputed. The 
+principal litigation risk is the roughly four-month gap between the claimant's internal complaint and his selection for 
+retrenchment, combined with the retention of two junior colleagues, which the claimant will argue together suggest 
+victimization rather than a neutral business decision. The specialized certification rationale (Ex. M1) and the 
+independently documented grievance closure (Ex. M3) are the respondent's strongest counters to this inference.
+13. Witness List
+Witness Role Status
+Claimant — 
+Mr. Anil 
+Kumar
+Testifies to service history, complaint, and 
+termination circumstances
+Examined-in-chief completed; cross-examination part-heard
+MW-1 
+(anticipated) — 
+QA Department 
+Head
+To testify on specialized certification 
+rationale (Ex. M1)
+Not yet examined; being prepared for respondent's evidence 
+stage
+MW-2 
+(anticipated) — 
+HR Business 
+Partner
+To testify on grievance handling and closure 
+(Ex. M3)
+Not yet examined
+3
+
+--- PAGE 4 ---
+Meridian & Rao Legal Associates, Hyderabad — Internal Case File — I.D. No. 34/2024
+End of document. Internal reference: MER-EMP-2024-034 (synthetic training corpus).
+4
