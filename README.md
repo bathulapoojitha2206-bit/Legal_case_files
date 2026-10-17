@@ -137,7 +137,7 @@ All test documents in `data/sample_documents/` are **purely synthetic, illustrat
 ### 2. Clone and Setup Environment
 ```bash
 # Clone the repository
-git clone https://github.com/bathulapoojitha2206-bit/Legal-Case-Files-RAG.git
+git clone https://github.com/bathulapoojitha2206-bit/Legal_case_files.git
 cd legal_case_files
 
 # Create a virtual environment
